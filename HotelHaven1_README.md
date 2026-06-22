@@ -6,7 +6,7 @@ This repository contains the code and analysis behind the “HotelHaven KPI Book
 ●	Build a cancellation prediction model (show vs. cancel/no‑show)
 ●	Analyse guest profiles, room/meal/segment mix, price sensitivity, and loyalty
 ●	Translate the model’s insights into concrete revenue and operations strategies
-Recruiter view: this project demonstrates my ability to go from messy business question → clean data → robust model → clear, actionable story.
+Project Objectives: this project is aimed that producing insights from messy business question → clean data → robust model → clear, actionable story.
 _________________________________________________________________
 🔍 Project Overview
 Business problem
