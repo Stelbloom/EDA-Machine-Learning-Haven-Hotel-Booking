@@ -335,8 +335,3 @@ For recruiters and stakeholders, this project is a concrete example of how I:
 - Turn raw data into a **clean, model‑ready dataset**
 - Evaluate and compare multiple **machine learning algorithms**
 - Communicate **insights and recommendations** in a way that supports real decisions.
-
----
-
-If you’d like a version of this README tailored precisely to your current repository structure (file names, notebook titles, etc.), I can adapt the sections above to match it exactly.
-
